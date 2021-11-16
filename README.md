@@ -12,12 +12,16 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <!-- <img align="center" alt="Ric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ric-CentOs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CentOS/CentOS-plain.svg">
-</div>
+  <img align="center" alt="Ric-Perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" /> -->
+  <img align="center" alt="Ric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Ric-CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
+  <img align="center" alt="Ric-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+  <img align="center" alt="Ric-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+  <img align="center" alt="Ric-Prometheus" height="60" width="70" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" />
+  <img align="center" alt="Ric-Prometheus" height="60" width="70" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" />
   
 ###
   
