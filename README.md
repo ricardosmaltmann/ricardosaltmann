@@ -1,6 +1,6 @@
 ### Ola eu sou Ricardo Altmann 👋
 - 🔭 I’m currently working infra
-- 🌱 I’m currently learning PHP 😎
+- 🌱 I’m currently learning PHP
 
 <div align="center">
   <a href="https://github.com/ricardosaltmann">
