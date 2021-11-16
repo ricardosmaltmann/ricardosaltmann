@@ -2,20 +2,11 @@
 - 🔭 I’m currently working infra
 - 🌱 I’m currently learning PHP
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/ricardosaltmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosaltmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosaltmann&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
-  
-<div>
-  <a href="https://github.com/ricardosaltmann">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardosaltmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosaltmann&layout=compact&langs_count=7&theme=dark"/>  
-</div>  
-
-  
-  
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
